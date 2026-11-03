@@ -27,7 +27,7 @@
 ├── mini_llm.ipynb          # Το πλήρες, εκτελέσιμο Jupyter Notebook
 ├── requirements.txt        # Απαραίτητες εξαρτήσεις βιβλιοθηκών Python
 └── book/
-    └── LLMs-in-a-nutshell.pdf # Το πλήρες ηλεκτρονικό σύγγραμμα (δωρεάν)
+    └── LLMs-in-a-nutshell.pdf # Το πλήρες ηλεκτρονικό βιβλίο (δωρεάν, θα μπεί αργότερα)
 ```
 
 ---
