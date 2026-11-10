@@ -23,9 +23,9 @@
 
 ```text
 .
-├── README.md               # Οδηγός χρήσης και τεκμηρίωση του project
-├── mini_llm.ipynb          # Το πλήρες, εκτελέσιμο Jupyter Notebook
-├── requirements.txt        # Απαραίτητες εξαρτήσεις βιβλιοθηκών Python
+├── README.md                  # Οδηγός χρήσης και τεκμηρίωση του project
+├── mini_llm_commented.ipynb   # Το πλήρες, εκτελέσιμο Jupyter Notebook με πλήρη σχολιασμό
+├── requirements.txt           # Απαραίτητες εξαρτήσεις βιβλιοθηκών Python
 └── book/
     └── LLMs-in-a-nutshell.pdf # Το πλήρες ηλεκτρονικό βιβλίο (δωρεάν, θα μπεί αργότερα)
 ```
